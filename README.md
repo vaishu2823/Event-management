@@ -1,15 +1,15 @@
-# 🌐 Web Application Project
+# 🎉 Event Management System
 
 ## 📌 Project Overview
 
-This project is a modern, responsive web application built using the latest front-end technologies. It focuses on performance, clean UI design, scalability, and ease of development. The application follows best practices in component-based architecture and responsive design.
+The Event Management System is a modern, responsive web application designed to manage events efficiently. It allows users to view events, interact with event details, and provides a clean, scalable interface built using the latest front-end technologies. The project focuses on performance, usability, and maintainable code architecture.
 
 ---
 
 ## 🚀 Features
 
 - Fast development and build process  
-- Responsive and modern UI  
+- Responsive and modern user interface  
 - Reusable component-based architecture  
 - Clean and maintainable code structure  
 - Optimized performance  
@@ -34,17 +34,18 @@ This project is a modern, responsive web application built using the latest fron
 - Node.js (v18+ recommended)  
 - npm  
 
-### Installation Steps
 
-```bash
-# Clone the repository
-git clone <YOUR_GIT_URL>
+🧩 Project Structure
+src/
+ ├── components/     # Reusable UI components
+ ├── pages/          # Application pages
+ ├── assets/         # Images and static files
+ ├── styles/         # Global styles
+ └── main.tsx        # Entry point
 
-# Navigate into the project folder
-cd <YOUR_PROJECT_NAME>
+📦 Build for Production
+npm run build
 
-# Install dependencies
-npm install
 📄 License
 
 This project is developed for educational and demonstration purposes.
