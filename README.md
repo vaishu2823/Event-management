@@ -1,5 +1,7 @@
 # 🎉 Event Management System
 
+## URL: http://localhost:8080/
+
 ## 📌 Project Overview
 
 The Event Management System is a modern, responsive web application designed to manage events efficiently. It allows users to view events, interact with event details, and provides a clean, scalable interface built using the latest front-end technologies. The project focuses on performance, usability, and maintainable code architecture.
